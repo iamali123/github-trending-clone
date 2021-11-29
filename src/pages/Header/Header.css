@@ -1,0 +1,7 @@
+.trendingBanner {
+  padding-block: 40px;
+}
+.trendingBanner h1,
+.trendingBanner p {
+  color: #fff;
+}
